@@ -20,3 +20,6 @@ Arduino Clone PCB Design with EEPROM
 
 # PCB ROUTE
 ![LAYOUT](https://github.com/Ogbonna-Joseph/Arduino-Clone/blob/main/images/images%20arduino/pcbba.png)
+
+# 3D PCB DESIGN
+![LAYOUT](https://github.com/Ogbonna-Joseph/Arduino-Clone/blob/main/images/images%20arduino/PCB10101.png)
