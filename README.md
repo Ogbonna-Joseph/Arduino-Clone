@@ -15,3 +15,5 @@ Arduino Clone PCB Design with EEPROM
 - 32Mhz Crystal
 - 16MHz Crystal
 
+# SCHEMATICS DESIGN
+![LAYOUT](https://github.com/Ogbonna-Joseph/1KVA-SINE-WAVE-POWER-INVERTER/blob/main/Images/PCBWAY0321.png )
